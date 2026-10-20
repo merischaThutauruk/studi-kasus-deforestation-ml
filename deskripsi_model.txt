@@ -1,0 +1,4 @@
+[DESKRIPSI MODEL AI DEFORESTASI]
+- Algoritma: Random Forest / Convolutional Neural Network (CNN).
+- Masukan: Fitur gabungan dari citra satelit Sentinel-1 (Radar SAR) dan Sentinel-2 (Optik Multispektral).
+- Keluaran: Atribusi pemicu langsung (pertanian skala kecil/besar, pertambangan, penebangan selektif/logging, dan kebakaran lahan)[cite: 2].
